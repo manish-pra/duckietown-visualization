@@ -1,6 +1,6 @@
 <launch>
     
-    <arg name="map_name" default="robotarium1"/>
+    <arg name="map_name" default="4way"/>
     
     <arg name="rviz_config" 
         default="$(find duckietown_visualization)/config/default.rviz"/>
